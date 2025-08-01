@@ -28,7 +28,7 @@ Run the following command to generate LoopLLM prompt to induce  Llama2-7b into r
 python main.py --model_name "llama2-7b"
 ```
 
-Or you can use the following batch file to complete most of the experiments in ou r paper.
+Or you can use the following batch file to complete most of the experiments in our paper.
 
 ```bash
 ./main.sh
@@ -36,4 +36,4 @@ Or you can use the following batch file to complete most of the experiments in o
 
 You can evaluate all the running results in the ```operate_res.py``` file.
 
-You can run the `ensemes.py ` file to ensemble optimization on multiple models to construct generalized prompt and use the `transfer.py` file to conduct transfer experiments.
+You can run the `ensemes.py` file to ensemble optimization on multiple models to construct generalized prompt and use the `transfer.py` file to conduct transfer experiments.
