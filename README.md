@@ -38,7 +38,8 @@ You can evaluate all the running results in the ```operate_res.py``` file.
 
 You can run the `ensemes.py` file to ensemble optimization on multiple models to construct generalized prompt and use the `transfer.py` file to conduct transfer experiments.
 
-## Real-World Screenshots
-Screenshots of repetitive generation triggered by our LoopLLM on real-world LLMs. Top left: Deepseek-V3. Top
+## The Examples of Real-World LLMs
+Screenshots of repetitive generation triggered by our LoopLLM on real-world LLMs. \
+Top left: Deepseek-V3. Top
 right: Gemini 2.5 Flash. Bottom left: Mistrial. Bottom right: Meta LLaMA2-7B
 ![overview](https://github.com/neuron-insight-lab/LoopLLM/raw/main/assets/real_world.png)
