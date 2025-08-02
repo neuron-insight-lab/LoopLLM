@@ -41,4 +41,4 @@ You can run the `ensemes.py` file to ensemble optimization on multiple models to
 ## Real-World Screenshots
 Screenshots of repetitive generation triggered by our LoopLLM on real-world LLMs. Top left: Deepseek-V3. Top
 right: Gemini 2.5 Flash. Bottom left: Mistrial. Bottom right: Meta LLaMA2-7B
-![overview](https://github.com/neuron-insight-lab/LoopLLM/raw/main/assets/overview.png)
+![overview](https://github.com/neuron-insight-lab/LoopLLM/raw/main/assets/real_world.png)
