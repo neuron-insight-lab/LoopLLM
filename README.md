@@ -10,7 +10,7 @@ As large language models (LLMs) scale, their inference incurs substantial comput
 
 ## Installation 
 
-### environment preparation
+### Environment Preparation
 
 ```bash
 pip install - r requirements.txt
@@ -28,7 +28,7 @@ Run the following command to generate LoopLLM prompt to induce  Llama2-7b into r
 python main.py --model_name "llama2-7b"
 ```
 
-Or you can run the `ensemes.py` file to ensemble optimization on multiple models to construct generalized prompt and use the `transfer.py` file to conduct transfer experiments.
+Or you can run the `ensemble.py` file to ensemble optimization on multiple models to construct more generalized prompt and use the `transfer.py` file to conduct transfer experiments.
 
 ## The Examples of Real-World LLMs
 Screenshots of repetitive generation triggered by our LoopLLM on real-world LLMs. \
