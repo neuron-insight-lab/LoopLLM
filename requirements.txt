@@ -65,8 +65,6 @@ fqdn==1.5.1
 frozenlist==1.5.0
 fschat==0.2.36
 fsspec==2023.10.0
-# Editable install with no version control (garak==0.10.3.post1)
--e /root/autodl-tmp/lxy/gitcode/garak
 google-api-core==2.24.1
 google-api-python-client==2.162.0
 google-auth==2.40.1
